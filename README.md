@@ -4,7 +4,7 @@
 - ⚡Fun fact : *The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.*
 
 #### Find me around the web 🌎:
-- 🌐 Chekout my personal <a href="https://nilkanthpatadiya.vercel.app/">portfolio website</a>
+- 🌐 Take a look at my personal <a href="https://nilkanthpatadiya.vercel.app/">portfolio website</a>
 - 💼 Connect with me on <a href="https://www.linkedin.com/in/nilkanthpatadiya/">LinkedIn</a>
 
 ### Some of the technologies I have worked with-</br>
