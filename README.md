@@ -1,6 +1,6 @@
 ### नमस्ते (Namaste)🙏🏻, I'm Nilkanth!
 #### A Front-End Developer based in India.
-- 🏢 I have 3 years of work experience.
+- 🏢 I have 3.5 years of work experience.
 - ⚡Fun fact : *The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.*
 
 #### Find me around the web 🌎:
