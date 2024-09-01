@@ -1,4 +1,4 @@
-### नमस्ते (Namaste)🙏🏻, I'm Nilkanth!
+### नमस्ते (Namaste)🙏🏻, I'm Nilkanth Patadiya!
 #### A Front-End Developer based in India.
 - 🏢 I have 3.75+ years of work experience.
 - ⚡Fun fact : *The first message sent over the internet was "LOG". "LOGIN" was the original intended message but the entire system crashed. This was done at MIT.*
@@ -13,10 +13,14 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-252324?style=for-the-badge&logo=vuedotjs)
 ![TypeScript](https://img.shields.io/badge/typescript-252324.svg?style=for-the-badge&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-252324?style=for-the-badge&logo=javascript)
+[![Vite](https://img.shields.io/badge/Vite-252324?style=for-the-badge&logo=vite)](#)
+[![Jest](https://img.shields.io/badge/Jest-252324?style=for-the-badge&logo=jest)](#)
+[![React Query](https://img.shields.io/badge/React%20Query-252324?style=for-the-badge&logo=reactquery)](#)
+![jQuery](https://img.shields.io/badge/jQuery-252324?style=for-the-badge&logo=jquery)
+[![JSON](https://img.shields.io/badge/JSON-252324?style=for-the-badge&logo=json)](#)
+![Git](http://img.shields.io/badge/-Git-252324?style=for-the-badge&logo=Git)
 ![HTML5](https://img.shields.io/badge/-HTML5-252324?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-252324?style=for-the-badge&logo=CSS3&logoColor=264de4)
-![Git](http://img.shields.io/badge/-Git-252324?style=for-the-badge&logo=Git)
-![jQuery](https://img.shields.io/badge/jQuery-252324?style=for-the-badge&logo=jquery&logoColor=fff)
 
 
 <h4 align="center">Visitor's count :eyes:</h4>
