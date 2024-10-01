@@ -23,4 +23,4 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-252324?style=for-the-badge&logo=CSS3&logoColor=264de4)
 
 ### Visitor's count:
-[![](https://visitcount.itsvg.in/api?id=Nilkanth-Patadiya&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Nilkanth-Patadiya&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
